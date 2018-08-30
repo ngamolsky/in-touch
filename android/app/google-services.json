@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "73974867281",
+    "firebase_url": "https://in-touch-134e3.firebaseio.com",
+    "project_id": "in-touch-134e3",
+    "storage_bucket": "in-touch-134e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73974867281:android:c0985670dedf4e17",
+        "android_client_info": {
+          "package_name": "intouchapp.intouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73974867281-vcp2ujgicvvq52n3lmciudenf8emso7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "intouchapp.intouch",
+            "certificate_hash": "4409ab52e85f0d96278fcbc85cf2f3ef565595b2"
+          }
+        },
+        {
+          "client_id": "73974867281-d8ku332g59lmap1oe5702dpm6maci496.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6NQcQTmHHhCJY4MHyKE9DwXL81H1chY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73974867281-d8ku332g59lmap1oe5702dpm6maci496.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73974867281-6s31ggr3njo4p3d2e77sqgdobvgq1s72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intouch"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
